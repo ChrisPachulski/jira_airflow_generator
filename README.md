@@ -21,11 +21,10 @@ TABLE OF CONTENTS
 ```bash
 airflow_report_generator/
 ├─ __init__.py
-├─ jira_client.py        [Jira ticket fetching logic]
-├─ schedule_parser.py    [Parsing cron & time range logic]
-├─ sql_generator.py      [Building SQL SELECT columns, aliases, etc.]
-├─ advertiser_report_generator.py
-└─ (other files, e.g. tests/)
+├─ jira_client.py        
+├─ schedule_parser.py    
+├─ sql_generator.py      
+└─ advertiser_report_generator.py
 ```
 
 --------------------------------------------------------------------------------
