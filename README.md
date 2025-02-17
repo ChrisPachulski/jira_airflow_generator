@@ -78,8 +78,8 @@ if __name__ == "__main__":
 ## HOW IT WORKS
 
 1. Jira Client
-  - jira_client.py: 
-     - Connects to Jira and retrieves ticket fields: time spans, columns, recipients, etc.
+   - jira_client.py: 
+      - Connects to Jira and retrieves ticket fields: time spans, columns, recipients, etc.
 
 2. Scheduler
    - schedule_parser.py:
