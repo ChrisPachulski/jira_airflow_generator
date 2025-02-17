@@ -4,6 +4,7 @@ This repository demonstrates a streamlined approach to automatically generate Ai
 
 A JSON config (to be included in an Airflow DAG).
 A sample CSV report representing what the DAG would produce.
+
 --------------------------------------------------------------------------------
 TABLE OF CONTENTS
 1. Project Structure
