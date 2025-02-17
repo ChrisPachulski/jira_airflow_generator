@@ -2,7 +2,7 @@
 
 This repository demonstrates a streamlined approach to automatically generate Airflow DAG configurations from Jira tickets. It pulls custom data fields from Jira API, parses scheduling information, builds SQL statements dynamically, and outputs:
 
-A JSON config (to be included in an Airflow DAG).
+A JSON config (to be included in an Airflow DAG).\n
 A sample CSV report representing what the DAG would produce.
 
 --------------------------------------------------------------------------------
