@@ -41,7 +41,7 @@ airflow_report_generator/
    pip install .
 
 3) Set environment variables as needed for:
-   - CLICKHOUSE_HOST (e.g., 'clickhouse://host_or_ip')
+   - Database connection (CLICKHOUSE_HOST in these instances)
    - Jira credentials (can also be managed via a jira_credential.py script or environment vars).
 
 --------------------------------------------------------------------------------
