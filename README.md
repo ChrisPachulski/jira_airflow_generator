@@ -95,9 +95,9 @@ if __name__ == "__main__":
 4. DAG Generation
    - advertiser_report_generator.py:
       - Orchestrates the overall workflow:
-       1) Fetch Jira ticket data.
-       2) Parse scheduling info.
-       3) Build the final JSON for Airflow (including DAG schedule, query, columns).
-       4) Optionally generates a sample CSV for stakeholder review.
+          1) Fetch Jira ticket data.
+          2) Parse scheduling info.
+          3) Build the final JSON for Airflow (including DAG schedule, query, columns).
+          4) Optionally generates a sample CSV for stakeholder review.
 
 
