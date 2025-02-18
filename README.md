@@ -30,17 +30,12 @@ airflow_report_generator/
 
 --------------------------------------------------------------------------------
 ## INSTALLATION & SETUP
-
-1) Clone this repository:
-   git clone https://github.com/YourOrg/airflow-advertiser-report-generator.git
-   cd airflow-advertiser-report-generator
-
-2) Install dependencies (example with pip):
+1) Install dependencies (example with pip):
    pip install -r requirements.txt
    or 
    pip install .
 
-3) Set environment variables as needed for:
+2) Set environment variables as needed for:
    - Database connection (CLICKHOUSE_HOST in these instances)
    - Jira credentials (can also be managed via a jira_credential.py script or environment vars).
 
